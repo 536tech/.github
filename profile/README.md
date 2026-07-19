@@ -41,7 +41,6 @@ cloud migration, and platform automation.
 
 ## Work with us
 
-Jonathan Moss leads consulting delivery from mapping through implementation
-and handoff.
+Consulting engagements run from mapping through implementation and handoff.
 
 [536tech.com](https://536tech.com) · [hello@536tech.com](mailto:hello@536tech.com)
